@@ -1,4 +1,4 @@
-# [7] TAXONOMY BACKLOG
+# [5] TAXONOMY BACKLOG
 Candidates for Taxonomy Projects
 
 ## EU Taxonomy
