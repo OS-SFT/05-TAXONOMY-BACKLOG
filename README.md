@@ -21,3 +21,7 @@ NGFS Phase 3 Scenario Explorer
 - https://www.ngfs.net/en/ngfs-climate-scenarios-central-banks-and-supervisors-september-2022
 - https://data.ene.iiasa.ac.at/ngfs/#/login?redirect=%2Fworkspaces
 - https://www.ngfs.net/ngfs-scenarios-portal/data-resources
+
+## Copernicus Climate Change Service
+
+- https://www.ecmwf.int/en/about/what-we-do/environmental-services/copernicus-climate-change-service
