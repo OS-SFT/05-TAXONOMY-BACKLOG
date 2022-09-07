@@ -24,4 +24,4 @@ NGFS Phase 3 Scenario Explorer
 
 ## Copernicus Climate Change Service
 
-- https://www.ecmwf.int/en/about/what-we-do/environmental-services/copernicus-climate-change-service
+- https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision
