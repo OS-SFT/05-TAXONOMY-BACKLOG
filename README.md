@@ -14,6 +14,14 @@ Candidates for Taxonomy Projects
 - Delta (Diff) in on beta versions
 - Link to UN Biological Convention
 - Any info on this from EU Taxonomy?
+- We need to get the TNFD (Nature) taxonomy into Solidatus.
+- Taxonomy per Version: The first step is to take the set of beta release versions of their framework and ingest them into Solidatus
+- Map Differences - between each sequential version as a thread in Solidatus - this will show the evolution of TNFD
+- Map Proprietary Taxonomy Framework - then we want to take the proprietary framework for biodiversity metrics from a partner fintech, MereMer, and how this maps to the latest TNFD version - illustrating the differences (does it capture all TNFD, and does it add more than TNFD, and what is missing)
+
+## CBD - United Nation Convention on Biological Diversity
+- How has this been used to inform the taxonomy model of TNFD?
+- https://www.cbd.int/
 
 ## NFGS
 
