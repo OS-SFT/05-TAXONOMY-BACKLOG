@@ -25,4 +25,4 @@ NGFS Phase 3 Scenario Explorer
 ## Copernicus Climate Change Service & CAMS (Copernicus Atmosphere Monitoring System)
 
 - https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision
-- - Resources: https://atmosphere.copernicus.eu/
+- Resources: https://atmosphere.copernicus.eu/
