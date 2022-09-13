@@ -34,3 +34,6 @@ NGFS Phase 3 Scenario Explorer
 
 - https://www.ecmwf.int/en/about/what-we-do/environmental-services-and-future-vision
 - Resources: https://atmosphere.copernicus.eu/
+
+## UN Global Compact and SDGs
+- https://www.unglobalcompact.org/sdgs/about
