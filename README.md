@@ -1,5 +1,8 @@
 # [5] TAXONOMY BACKLOG
 Candidates for Taxonomy Projects
+---------------------
+WE NEED TO ADD A FILE /TABLE SORTABLE FOR THE BACKLOG
+---------------------
 
 ## EU Taxonomy
 - https://finance.ec.europa.eu/publications/technical-expert-group-sustainable-finance-teg_en
