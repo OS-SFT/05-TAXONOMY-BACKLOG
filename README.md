@@ -4,6 +4,14 @@ Candidates for Taxonomy Projects
 WE NEED TO ADD A FILE /TABLE SORTABLE FOR THE BACKLOG
 ---------------------
 
+## SBT
+Add to Backlog
+
+## IIGCC
+Add to Backlog
+IIGCC - Framework for Climate Resilient Investment 
+https://www.iigcc.org/resource/working-towards-a-climate-resilience-investment-framework/
+
 ## EU Taxonomy
 - https://finance.ec.europa.eu/publications/technical-expert-group-sustainable-finance-teg_en
 - EU Taxonomy tool "Compass": https://ec.europa.eu/sustainable-finance-taxonomy/ which describes access as follows - note the need to check manually for updates!
