@@ -1,6 +1,6 @@
 **PAGE STATUS**
 ```diff
-- UNDER DEVELOPMENT - [Content shall be provided shortly by partner collaboration]
+- UNDER DEVELOPMENT - [Content shall be ongoing and provided by partner collaboration]
 ```
 
 # [5] TAXONOMY BACKLOG
