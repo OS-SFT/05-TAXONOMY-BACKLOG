@@ -3,10 +3,10 @@
 **... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
 
 # [5] TAXONOMY BACKLOG
+To see the current backlog go to the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) and go to the column "Backlog" on RHS.
+
+## Candidates for Backlog
 Below is a table of evolving candidates for the backlog of taxonomy projects
-
-To see the current backlog go to the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) and go to tthe column "Backlog" on RHS.
-
 
 | Backlog Idea  | Supporting Information |
 | ------------- | ------------- |
