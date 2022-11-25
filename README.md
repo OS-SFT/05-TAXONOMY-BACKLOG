@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/112073913/188821900-0c411acf-fbdd-4163-adc9-3ba4e2be78df.png)
 **Navigate: [Become a partner?](https://github.com/FD-SustainableFinance/l6l-PARTNERS)**
-**... Or ... [See the Taxonomy Library?](https://github.com/orgs/FD-SustainableFinance/projects/2)**
+**... Or ... [See the Taxonomy Library?](https://github.com/orgs/OS-SFT/projects/2)**
 
 <details><summary>CONTENTS</summary>
 <p>
@@ -38,7 +38,7 @@
 # [5] TAXONOMY BACKLOG
 
 ## Backlog
-To see the current backlog go to the [Taxonomy & Mappings Library](https://github.com/orgs/FD-SustainableFinance/projects/2) and go to the column "Backlog" on RHS.
+To see the current backlog go to the [Taxonomy & Mappings Library](https://github.com/orgs/OS-SFT/projects/2) and go to the column "Backlog" on RHS.
 
 ## Candidates for Backlog
 Below is a table of evolving candidates for the backlog of taxonomy projects
